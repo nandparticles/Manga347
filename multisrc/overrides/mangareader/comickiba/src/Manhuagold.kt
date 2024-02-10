@@ -24,7 +24,7 @@ import rx.Observable
 
 class Manhuagold : MangaReader() {
 
-    override val name = "Manhuagold"
+    override val name = "test347"
 
     override val lang = "en"
 
